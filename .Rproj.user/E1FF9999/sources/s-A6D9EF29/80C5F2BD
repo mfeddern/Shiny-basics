@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1617987850297.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "80C5F2BD",
+    "lastKnownWriteTime" : 1617987766,
+    "last_content_update" : 1617987766,
+    "path" : "~/Documents/GitHub/Shiny-basics/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "65,0",
+        "scrollLine" : "48"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
